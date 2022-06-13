@@ -2,16 +2,16 @@
 
 
 
-**CTRL + L** : apaga limpa pagina
+**CTRL + L** : apaga e limpa página
 **ls** : Lista a pasta
 **mv "nome do arquivo" ./"nome do local de destino"/**: Mover um arquivo
-**pwd** : Mostrar o caminho completa da pasta onde estamos
+**pwd** : Mostrar o caminho completo da pasta onde estamos
 **ls -a** : Mostrar pastas ocultas
-**cat + nome do arquivo** : Mostrar o conteudo do arquivo direto no GITBASH
+**cat + nome do arquivo** : Mostrar o conteúdo do arquivo direto no GITBASH
 **git rm + nome do arquivo** : Excluir arquivo
-**cd ..** : Voltar um nivel
+**cd ..** : Voltar um nível
 **git clone + colar o link do GitHub** : Para clonar um repositório do GitHub
-**git init** :Para poder iniciar o repositorio Git, vamos usar o comanndo
+**git init** :Para poder iniciar o repositorio Git, vamos usar o comando
 **git commit** :Para inicar nosso primeiro commit, vamos usar o comando 
 **git status**: Vai ajudar agente a monitorar os estagios dos arquivos, vai dizer para gente se o arquivo está Untracked ou Tracked (Unmodified, modified ou Staged).
 **git add "nome do arquivo"** : Commita apenas o arquivo específico
