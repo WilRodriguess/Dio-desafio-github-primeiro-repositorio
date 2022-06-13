@@ -59,9 +59,7 @@ Depois clicar em criar repositório. Parabéns você acaba de criar seu novo rep
 
 Agora precisamos fazer clonar o código, clicar na botar código, dentro de uma caixa verde, depois copiar o link SSH.
 
-Agora no terminal do Git, digitar o comando git clone e colar o link ssh, ficando assim:
-
-git clone git@github.com:WilRodriguess/novo-projeto-legal.git
+Agora no terminal do Git, digitar o comando git clone e colar o link ssh.
 
 Vai aparecer uma mensagem de confirmação, para salvar esta assinatura digital, só escrever yes.
 
